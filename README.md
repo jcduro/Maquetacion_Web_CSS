@@ -12,7 +12,7 @@ Este repositorio contiene una maquetación básica realizada con CSS Grid, pensa
 
 ## ✨ Pruevalo Online
 
-[Maquetacion](https://jcduro.bexartideas.com/proyectos/efecto_card_anime/index.html)
+[Maquetacion](https://jcduro.bexartideas.com/proyectos/grid01/grid.html)
 
 --- 
 
